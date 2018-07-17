@@ -11,7 +11,7 @@
         Hello World sample application that responds to the deviceready event.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+        Admin App
     </author>
     <content src="index.html" />
     <access origin="*" />
