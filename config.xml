@@ -13,7 +13,7 @@
     <preference name="android-minSdkVersion" value="14" />
     <preference name="AndroidLaunchMode" value="singleTask" />
     <preference name="splashscreen" value="splash" />
-    <preference name="splashScreenDelay" value="5000" />
+    <preference name="splashScreenDelay" value="10000" />
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1" />
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1" />
     <plugin name="cordova-plugin-media-capture" source="npm" spec="~1.2.0" />
