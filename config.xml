@@ -14,6 +14,11 @@
     <preference name="AndroidLaunchMode" value="singleTask" />
     <preference name="splashscreen" value="splash" />
     <preference name="splashScreenDelay" value="10000" />
+    <preference name="AutoHideSplashScreen" value="true" />
+    <preference name="FadeSplashScreenDuration" value="900"/>
+    <preference name="SplashMaintainAspectRatio" value="false" />
+    <preference name="SplashShowOnlyFirstTime" value="true" />
+    <preference name="SplashScreenSpinnerColor" value="white" />
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1" />
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1" />
     <plugin name="cordova-plugin-media-capture" source="npm" spec="~1.2.0" />
