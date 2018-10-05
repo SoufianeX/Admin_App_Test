@@ -54,7 +54,7 @@
         function getUsers() {
             vm.promise = GithubService.getUsers(vm.query);
             vm.promise.then(function(users){
-                vm.users = users.data;
+                vm.users = users;
             });
         }
 
